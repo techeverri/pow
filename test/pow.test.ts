@@ -31,6 +31,12 @@ describe("pow", () => {
     expect(pow(base, exponent)).toBe(0); // 0^5 = 0
   });
 
+  it("returns 1 when base is 0 and exponent is 0 (0^0 = 1)", () => {
+    const base = 0;
+    const exponent = 0;
+    expect(pow(base, exponent)).toBe(1);
+  });
+
   it("returns 10460353203 when base is 3 and exponent is 21 (3^21 = 10460353203) ", () => {
     const base = 3;
     const exponent = 21;
