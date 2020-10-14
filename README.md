@@ -1,8 +1,8 @@
 # Task
 
-The task is to implement the pow() function.
+The task is to implement the `pow()` function.
 
-Requirements:
+## Requirements
 
 - The `pow()` function should return `base`^`exponent`
 - You are not allowed to use the built in `Math.pow()` or the exponentiation operator (**).
