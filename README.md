@@ -14,3 +14,10 @@ The task is to implement the `pow()` function (aka [exponentiation](https://en.w
 - Clone the project
 - Install the dependencies `npm install`
 - Run `npm test`
+
+Alternatively
+
+- Open the project using [Glitch](https://glitch.com/)
+- Run `npm test`
+
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/techeverri/pow)
