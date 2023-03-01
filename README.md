@@ -1,3 +1,5 @@
+[![Continuous Integration](https://github.com/techeverri/pow/actions/workflows/main.yml/badge.svg)](https://github.com/techeverri/pow/actions/workflows/main.yml)
+
 # Task
 
 The task is to implement the `pow()` function (aka [exponentiation](https://en.wikipedia.org/wiki/Exponentiation))
